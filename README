@@ -1,0 +1,37 @@
+# Customer Support Ticket System
+
+## 📌 Overview
+This project is a Customer Support Ticket System built using:
+- WinForms (Frontend)
+- ASP.NET Core Web API (Backend)
+- MySQL (Database)
+
+## 🚀 Features
+- User Login
+- Create Ticket
+- View Tickets (role-based)
+- Admin can assign tickets
+- Update ticket status
+- Add comments
+- Ticket history tracking
+
+## 🛠️ Tech Stack
+- .NET 8
+- WinForms
+- ASP.NET Web API
+- MySQL
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository
+2. Run the SQL script (Database/script.sql)
+3. Update connection string in appsettings.json
+4. Run API project
+5. Run Desktop project
+
+## 📷 Demo
+(Add your screen recording link here)
+
+## 📌 Notes
+- Desktop communicates only via API
+- Role-based access implemented
